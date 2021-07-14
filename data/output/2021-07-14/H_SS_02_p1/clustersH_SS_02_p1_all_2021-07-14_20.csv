@@ -1,0 +1,21 @@
+Type,Total
+1,0
+Type,Total
+2,1
+ClusterID,Type,Size,Area,Members
+3,2,5,36341.0,"[241, 239, 240, 248, 242]"
+Type,Total
+3,3
+ClusterID,Type,Size,Area,Members
+1,3,5,23437.0,"[71, 99, 70, 72, 97]"
+2,3,5,19986.0,"[228, 74, 227, 117, 110]"
+4,3,5,37216.0,"[284, 7, 285, 283, 8]"
+Type,Total
+12,0
+Type,Total
+13,0
+Type,Total
+23,0
+Type,Total
+0,0
+
